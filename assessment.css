@@ -1,0 +1,12 @@
+body{background-color:#04a6ed;
+color: #fdffff;
+width: 500px;
+margin-right: auto;
+margin-left: auto;
+}
+button{background-color: orange;
+padding: 5px 20px;
+border-style: none;
+color: #fdffff;
+}
+input{height: 24px;}
